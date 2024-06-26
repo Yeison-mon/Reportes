@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>\\Server\metrogestion\008 SOFTWARE\REPORTES\publish\</_PublishTargetUrl>
+    <History>True|2024-06-13T15:03:29.1428972Z;True|2024-06-13T10:03:14.9327686-05:00;True|2024-06-13T08:48:11.4413090-05:00;True|2024-06-13T08:44:48.9250900-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

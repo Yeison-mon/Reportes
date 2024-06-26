@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Report Viewer";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form method="get" asp-controller="Reportes" asp-action="GenerateReport">
+    <label for="documento">Documento:</label>
+    <input type="number" id="documento" name="documento" required>
+    <label for="tipo">Tipo:</label>
+    <select id="tipo" name="tipo" required>
+        <option value="Recepcion">Recepcion</option>
+        <option value="Inspeccion">Inspeccion</option>
+        <option value="ODT">ODT</option>
+    </select>
+    <button type="submit">Generate Report</button>
+</form>
+
+<div>
+    @if (ViewBag.ReportUrl != null)
+    {
+        <iframe src="@ViewBag.ReportUrl" width="100%" height="600px"></iframe>
+    }
+</div>
