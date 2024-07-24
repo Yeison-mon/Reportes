@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using MIS_REPORTES.Controllers;
 using MIS_REPORTES.Models;
 using MIS_REPORTES.Service;
+using Microsoft.AspNetCore.SignalR;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -43,6 +44,7 @@ builder.Services.AddSession(options =>
     options.Cookie.HttpOnly = true;
     options.Cookie.IsEssential = true;
 });
+builder.Services.AddSignalR();
 
 var app = builder.Build();
 
@@ -67,5 +69,5 @@ app.UseSession();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Account}/{action=Login}/{id?}");
-
+app.MapHub<NotificationHub>("/notificationHub");
 app.Run();

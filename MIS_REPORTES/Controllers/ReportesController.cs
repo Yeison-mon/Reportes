@@ -96,6 +96,8 @@ namespace MIS_REPORTES.Controllers
                 "Recepcion" => $"{_reportPath}/Recepcion/rpRecepcion.rdlc",
                 "Inspeccion" => $"{_reportPath}/Recepcion/rpInspeccion.rdlc",
                 "ODT" => $"{_reportPath}/Laboratorio/rpOrdenTrabajo.rdlc",
+                "ProcesoFinal" => $"{_reportPath}/Laboratorio/rpProcesoFinal.rdlc",
+                "Devolucion" => $"{_reportPath}/Recepcion/rpDevolucion.rdlc",
                 _ => throw new Exception("Tipo de reporte desconocido")
             };
         }
@@ -129,6 +131,22 @@ namespace MIS_REPORTES.Controllers
                     dt = await _dbHelper.GetOrdenTrabajoDetalle(documento);
                     ValidateDataTable(dt, "ordentrabajo_detalle");
                     dataSources.Add("ordentrabajo_detalle", dt);
+                    break;
+                case "ProcesoFinal":
+                    dt = await _dbHelper.GetProcesoFinalEncabezado(documento);
+                    ValidateDataTable(dt, "procesofinal");
+                    dataSources.Add("procesofinal", dt);
+                    dt = await _dbHelper.GetProcesoFinalDetalle(documento);
+                    ValidateDataTable(dt, "procesofinal_detalle");
+                    dataSources.Add("procesofinal_detalle", dt);
+                    break;
+                case "Devolucion":
+                    dt = await _dbHelper.GetDevolucionEncabezado(documento);
+                    ValidateDataTable(dt, "devolucion");
+                    dataSources.Add("devolucion", dt);
+                    dt = await _dbHelper.GetDevolucionDetalle(documento);
+                    ValidateDataTable(dt, "devolucion_detalle");
+                    dataSources.Add("devolucion_detalle", dt);
                     break;
             }
             return dataSources;

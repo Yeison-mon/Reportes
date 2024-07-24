@@ -1,17 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PROGRAMADOR\\Downloads\\MIS_REPORTES\\",
+  "WorkspaceRootPath": "C:\\Users\\chiri\\OneDrive\\Documentos\\Reportes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|c:\\users\\programador\\downloads\\mis_reportes\\mis_reportes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|solutionrelative:mis_reportes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|C:\\Users\\PROGRAMADOR\\Downloads\\MIS_REPORTES\\mis_reportes\\controllers\\fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|c:\\users\\chiri\\onedrive\\documentos\\reportes\\mis_reportes\\controllers\\fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|solutionrelative:mis_reportes\\controllers\\fg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|C:\\Users\\PROGRAMADOR\\Downloads\\MIS_REPORTES\\mis_reportes\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|c:\\users\\chiri\\onedrive\\documentos\\reportes\\mis_reportes\\wwwroot\\reportes\\laboratorio\\rpprocesofinal.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|solutionrelative:mis_reportes\\wwwroot\\reportes\\laboratorio\\rpprocesofinal.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|c:\\users\\chiri\\onedrive\\documentos\\reportes\\mis_reportes\\wwwroot\\reportes\\recepcion\\rprecepcion.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|solutionrelative:mis_reportes\\wwwroot\\reportes\\recepcion\\rprecepcion.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|c:\\users\\chiri\\onedrive\\documentos\\reportes\\mis_reportes\\wwwroot\\reportes\\recepcion\\rpinspeccion.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|solutionrelative:mis_reportes\\wwwroot\\reportes\\recepcion\\rpinspeccion.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|c:\\users\\chiri\\onedrive\\documentos\\reportes\\mis_reportes\\wwwroot\\reportes\\laboratorio\\rpordentrabajo.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|solutionrelative:mis_reportes\\wwwroot\\reportes\\laboratorio\\rpordentrabajo.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|c:\\users\\chiri\\onedrive\\documentos\\reportes\\mis_reportes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|solutionrelative:mis_reportes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|c:\\users\\chiri\\onedrive\\documentos\\reportes\\mis_reportes\\wwwroot\\datasets\\dsinspeccion.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|solutionrelative:mis_reportes\\wwwroot\\datasets\\dsinspeccion.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|c:\\users\\chiri\\onedrive\\documentos\\reportes\\mis_reportes\\wwwroot\\reportes\\recepcion\\rpdevolucion.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|solutionrelative:mis_reportes\\wwwroot\\reportes\\recepcion\\rpdevolucion.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|c:\\users\\chiri\\onedrive\\documentos\\reportes\\mis_reportes\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F24D439C-8CE2-410E-96DA-9A07CEDC1955}|MIS_REPORTES\\MIS_REPORTES.csproj|solutionrelative:mis_reportes\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,41 +61,116 @@
               "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FG.cs",
-              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Downloads\\MIS_REPORTES\\MIS_REPORTES\\Controllers\\FG.cs",
-              "RelativeDocumentMoniker": "MIS_REPORTES\\Controllers\\FG.cs",
-              "ToolTip": "C:\\Users\\PROGRAMADOR\\Downloads\\MIS_REPORTES\\MIS_REPORTES\\Controllers\\FG.cs",
-              "RelativeToolTip": "MIS_REPORTES\\Controllers\\FG.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T21:56:56.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReportesController.cs",
-              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Downloads\\MIS_REPORTES\\MIS_REPORTES\\Controllers\\ReportesController.cs",
-              "RelativeDocumentMoniker": "MIS_REPORTES\\Controllers\\ReportesController.cs",
-              "ToolTip": "C:\\Users\\PROGRAMADOR\\Downloads\\MIS_REPORTES\\MIS_REPORTES\\Controllers\\ReportesController.cs",
-              "RelativeToolTip": "MIS_REPORTES\\Controllers\\ReportesController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T21:46:00.292Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PROGRAMADOR\\Downloads\\MIS_REPORTES\\MIS_REPORTES\\Program.cs",
-              "RelativeDocumentMoniker": "MIS_REPORTES\\Program.cs",
-              "ToolTip": "C:\\Users\\PROGRAMADOR\\Downloads\\MIS_REPORTES\\MIS_REPORTES\\Program.cs",
-              "RelativeToolTip": "MIS_REPORTES\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAcwCYAAAA+AAAA",
+              "Title": "FG.cs",
+              "DocumentMoniker": "C:\\Users\\chiri\\OneDrive\\Documentos\\Reportes\\MIS_REPORTES\\Controllers\\FG.cs",
+              "RelativeDocumentMoniker": "MIS_REPORTES\\Controllers\\FG.cs",
+              "ToolTip": "C:\\Users\\chiri\\OneDrive\\Documentos\\Reportes\\MIS_REPORTES\\Controllers\\FG.cs",
+              "RelativeToolTip": "MIS_REPORTES\\Controllers\\FG.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAIwOEAAADpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T22:11:45.816Z",
+              "WhenOpened": "2024-07-12T16:23:53.098Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dsInspeccion.xsd",
+              "DocumentMoniker": "C:\\Users\\chiri\\OneDrive\\Documentos\\Reportes\\MIS_REPORTES\\wwwroot\\datasets\\dsInspeccion.xsd",
+              "RelativeDocumentMoniker": "MIS_REPORTES\\wwwroot\\datasets\\dsInspeccion.xsd",
+              "ToolTip": "C:\\Users\\chiri\\OneDrive\\Documentos\\Reportes\\MIS_REPORTES\\wwwroot\\datasets\\dsInspeccion.xsd",
+              "RelativeToolTip": "MIS_REPORTES\\wwwroot\\datasets\\dsInspeccion.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-07-12T16:23:45.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\chiri\\OneDrive\\Documentos\\Reportes\\MIS_REPORTES\\appsettings.json",
+              "RelativeDocumentMoniker": "MIS_REPORTES\\appsettings.json",
+              "ToolTip": "C:\\Users\\chiri\\OneDrive\\Documentos\\Reportes\\MIS_REPORTES\\appsettings.json",
+              "RelativeToolTip": "MIS_REPORTES\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T16:15:53.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rpRecepcion.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chiri\\OneDrive\\Documentos\\Reportes\\MIS_REPORTES\\wwwroot\\reportes\\Recepcion\\rpRecepcion.rdlc",
+              "RelativeDocumentMoniker": "MIS_REPORTES\\wwwroot\\reportes\\Recepcion\\rpRecepcion.rdlc",
+              "ToolTip": "C:\\Users\\chiri\\OneDrive\\Documentos\\Reportes\\MIS_REPORTES\\wwwroot\\reportes\\Recepcion\\rpRecepcion.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "MIS_REPORTES\\wwwroot\\reportes\\Recepcion\\rpRecepcion.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-12T16:14:41.58Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rpInspeccion.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chiri\\OneDrive\\Documentos\\Reportes\\MIS_REPORTES\\wwwroot\\reportes\\Recepcion\\rpInspeccion.rdlc",
+              "RelativeDocumentMoniker": "MIS_REPORTES\\wwwroot\\reportes\\Recepcion\\rpInspeccion.rdlc",
+              "ToolTip": "C:\\Users\\chiri\\OneDrive\\Documentos\\Reportes\\MIS_REPORTES\\wwwroot\\reportes\\Recepcion\\rpInspeccion.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "MIS_REPORTES\\wwwroot\\reportes\\Recepcion\\rpInspeccion.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-12T16:14:22.329Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rpProcesoFinal.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chiri\\OneDrive\\Documentos\\Reportes\\MIS_REPORTES\\wwwroot\\reportes\\Laboratorio\\rpProcesoFinal.rdlc",
+              "RelativeDocumentMoniker": "MIS_REPORTES\\wwwroot\\reportes\\Laboratorio\\rpProcesoFinal.rdlc",
+              "ToolTip": "C:\\Users\\chiri\\OneDrive\\Documentos\\Reportes\\MIS_REPORTES\\wwwroot\\reportes\\Laboratorio\\rpProcesoFinal.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "MIS_REPORTES\\wwwroot\\reportes\\Laboratorio\\rpProcesoFinal.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-12T16:13:47.716Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportesController.cs",
+              "DocumentMoniker": "C:\\Users\\chiri\\OneDrive\\Documentos\\Reportes\\MIS_REPORTES\\Controllers\\ReportesController.cs",
+              "RelativeDocumentMoniker": "MIS_REPORTES\\Controllers\\ReportesController.cs",
+              "ToolTip": "C:\\Users\\chiri\\OneDrive\\Documentos\\Reportes\\MIS_REPORTES\\Controllers\\ReportesController.cs",
+              "RelativeToolTip": "MIS_REPORTES\\Controllers\\ReportesController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAcwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:32:30.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rpDevolucion.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chiri\\OneDrive\\Documentos\\Reportes\\MIS_REPORTES\\wwwroot\\reportes\\Recepcion\\rpDevolucion.rdlc",
+              "RelativeDocumentMoniker": "MIS_REPORTES\\wwwroot\\reportes\\Recepcion\\rpDevolucion.rdlc",
+              "ToolTip": "C:\\Users\\chiri\\OneDrive\\Documentos\\Reportes\\MIS_REPORTES\\wwwroot\\reportes\\Recepcion\\rpDevolucion.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "MIS_REPORTES\\wwwroot\\reportes\\Recepcion\\rpDevolucion.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-09T10:11:03.372Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rpOrdenTrabajo.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chiri\\OneDrive\\Documentos\\Reportes\\MIS_REPORTES\\wwwroot\\reportes\\Laboratorio\\rpOrdenTrabajo.rdlc",
+              "RelativeDocumentMoniker": "MIS_REPORTES\\wwwroot\\reportes\\Laboratorio\\rpOrdenTrabajo.rdlc",
+              "ToolTip": "C:\\Users\\chiri\\OneDrive\\Documentos\\Reportes\\MIS_REPORTES\\wwwroot\\reportes\\Laboratorio\\rpOrdenTrabajo.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "MIS_REPORTES\\wwwroot\\reportes\\Laboratorio\\rpOrdenTrabajo.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-08T08:16:48.241Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

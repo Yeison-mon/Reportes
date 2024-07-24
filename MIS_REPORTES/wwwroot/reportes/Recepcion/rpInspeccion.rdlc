@@ -657,7 +657,6 @@
                       <rd:DefaultName>Textbox65</rd:DefaultName>
                       <Style>
                         <Border>
-                          <Color>LightGrey</Color>
                           <Style>Solid</Style>
                         </Border>
                         <VerticalAlign>Middle</VerticalAlign>
@@ -692,7 +691,6 @@
                       <rd:DefaultName>Textbox67</rd:DefaultName>
                       <Style>
                         <Border>
-                          <Color>LightGrey</Color>
                           <Style>Solid</Style>
                         </Border>
                         <VerticalAlign>Middle</VerticalAlign>
@@ -727,7 +725,6 @@
                       <rd:DefaultName>Textbox69</rd:DefaultName>
                       <Style>
                         <Border>
-                          <Color>LightGrey</Color>
                           <Style>Solid</Style>
                         </Border>
                         <PaddingLeft>2pt</PaddingLeft>
@@ -761,7 +758,6 @@
                       <rd:DefaultName>Textbox73</rd:DefaultName>
                       <Style>
                         <Border>
-                          <Color>LightGrey</Color>
                           <Style>Solid</Style>
                         </Border>
                         <PaddingLeft>2pt</PaddingLeft>
@@ -795,7 +791,6 @@
                       <rd:DefaultName>Textbox75</rd:DefaultName>
                       <Style>
                         <Border>
-                          <Color>LightGrey</Color>
                           <Style>Solid</Style>
                         </Border>
                         <PaddingLeft>2pt</PaddingLeft>
@@ -829,7 +824,6 @@
                       <rd:DefaultName>Textbox77</rd:DefaultName>
                       <Style>
                         <Border>
-                          <Color>LightGrey</Color>
                           <Style>Solid</Style>
                         </Border>
                         <PaddingLeft>2pt</PaddingLeft>
@@ -868,7 +862,6 @@
                       <rd:DefaultName>renglon</rd:DefaultName>
                       <Style>
                         <Border>
-                          <Color>LightGrey</Color>
                           <Style>Solid</Style>
                         </Border>
                         <VerticalAlign>Middle</VerticalAlign>
@@ -903,7 +896,6 @@
                       <rd:DefaultName>ingreso</rd:DefaultName>
                       <Style>
                         <Border>
-                          <Color>LightGrey</Color>
                           <Style>Solid</Style>
                         </Border>
                         <VerticalAlign>Middle</VerticalAlign>
@@ -937,7 +929,6 @@
                       <rd:DefaultName>descripcion</rd:DefaultName>
                       <Style>
                         <Border>
-                          <Color>LightGrey</Color>
                           <Style>Solid</Style>
                         </Border>
                         <PaddingLeft>2pt</PaddingLeft>
@@ -969,7 +960,6 @@
                       <rd:DefaultName>piezas</rd:DefaultName>
                       <Style>
                         <Border>
-                          <Color>LightGrey</Color>
                           <Style>Solid</Style>
                         </Border>
                         <PaddingLeft>2pt</PaddingLeft>
@@ -1001,7 +991,6 @@
                       <rd:DefaultName>funcionalidades</rd:DefaultName>
                       <Style>
                         <Border>
-                          <Color>LightGrey</Color>
                           <Style>Solid</Style>
                         </Border>
                         <PaddingLeft>2pt</PaddingLeft>
@@ -1033,7 +1022,6 @@
                       <rd:DefaultName>acabados</rd:DefaultName>
                       <Style>
                         <Border>
-                          <Color>LightGrey</Color>
                           <Style>Solid</Style>
                         </Border>
                         <PaddingLeft>2pt</PaddingLeft>
@@ -2078,7 +2066,7 @@
                     <Paragraph>
                       <TextRuns>
                         <TextRun>
-                          <Value>0</Value>
+                          <Value>1</Value>
                           <Style>
                             <FontFamily>Calibri</FontFamily>
                             <FontSize>7pt</FontSize>
@@ -2154,7 +2142,7 @@
                     <Paragraph>
                       <TextRuns>
                         <TextRun>
-                          <Value>2022-01-11</Value>
+                          <Value>2024-06-01</Value>
                           <Style>
                             <FontFamily>Calibri</FontFamily>
                             <FontSize>7pt</FontSize>
